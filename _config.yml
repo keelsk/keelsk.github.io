@@ -1,11 +1,11 @@
 # Site settings
 author: Kirsten Keels
-title: 
+title: EduCoder
 header-img: img/home-bg.png
 email: keelsk@gmail.com
 copyright_name: Kirsten Keels
 description: > # this means to ignore newlines until "baseurl:"
-  
+  EdTech Musings
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  keelsk
